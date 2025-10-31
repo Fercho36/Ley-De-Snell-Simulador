@@ -5,31 +5,28 @@ El código principal se encuentra en el archivo  SimuladorLeyDeSnell.py.
 Requisitos Previos
 
 ## Sistema Operativo: Compatible con Windows, macOS o Linux.
-Python: Versión 3.6 o superior. Puedes descargar Python desde python.org.
+Python: Versión 3.6 o superior. Puedes descargar Python desde ![Python Org](https://www.python.org/)
 
 ## Dependencias
 El simulador requiere las siguientes bibliotecas:
 
-### tkinter: 
-Biblioteca estándar de Python para interfaces gráficas. Viene incluida en la mayoría de las instalaciones de Python (no requiere instalación adicional).
-### customtkinter: 
-Extensión de tkinter para widgets modernos con soporte para temas claro/oscuro. Instálala usando pip:
+**tkinter:** Biblioteca estándar de Python para interfaces gráficas. Viene incluida en la mayoría de las instalaciones de Python (no requiere instalación adicional).
+**customtkinter:**  Extensión de tkinter para widgets modernos con soporte para temas claro/oscuro. Instálala usando pip:
     textpip install customtkinter
-### math: 
-Biblioteca estándar de Python para funciones matemáticas (seno, coseno, etc.). Viene incluida en Python (no requiere instalación adicional).
+**math:**  Biblioteca estándar de Python para funciones matemáticas (seno, coseno, etc.). Viene incluida en Python (no requiere instalación adicional).
 
 Asegúrate de ejecutar el comando de instalación en un entorno virtual si lo prefieres, para evitar conflictos con otras dependencias.
 Instalación
 
 Clona o descarga el repositorio (o copia el código en un archivo llamado Simulador.py).
 Instala la dependencia principal:
-    textpip install customtkinter
+    <pre>textpip install customtkinter</pre>
 
 ## Cómo Ejecutar
 
 Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo Simulador.py.
 Ejecuta el script con Python:
-    textpython SimuladorLeyDeSnell.py
+    <pre>textpython SimuladorLeyDeSnell.py</pre>
 (Si usas Python 3 explícitamente, puedes usar python3 Simulador.py en algunos sistemas).
 
 La ventana del simulador se abrirá automáticamente. Puedes interactuar con el panel de control para cambiar el número de interfaces, el ángulo de incidencia y los materiales de cada capa. El canvas se actualizará en tiempo real.
