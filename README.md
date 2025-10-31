@@ -5,14 +5,15 @@ El código principal se encuentra en el archivo  SimuladorLeyDeSnell.py.
 Requisitos Previos
 
 ## Sistema Operativo: Compatible con Windows, macOS o Linux.
-Python: Versión 3.6 o superior. Puedes descargar Python desde [Python Org](https://www.python.org/)
+Python: Versión 3.6 o superior. Puedes descargar Python desde [Python.org](https://www.python.org/) :snake:
 
 ## Dependencias
 El simulador requiere las siguientes bibliotecas:
 
 **tkinter:** Biblioteca estándar de Python para interfaces gráficas. Viene incluida en la mayoría de las instalaciones de Python (no requiere instalación adicional).
-**customtkinter:**  Extensión de tkinter para widgets modernos con soporte para temas claro/oscuro. Instálala usando pip:
-    textpip install customtkinter
+
+**customtkinter:**  Extensión de tkinter para widgets modernos con soporte para temas claro/oscuro. 
+    
 **math:**  Biblioteca estándar de Python para funciones matemáticas (seno, coseno, etc.). Viene incluida en Python (no requiere instalación adicional).
 
 Asegúrate de ejecutar el comando de instalación en un entorno virtual si lo prefieres, para evitar conflictos con otras dependencias.
