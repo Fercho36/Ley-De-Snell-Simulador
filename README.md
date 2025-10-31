@@ -5,7 +5,7 @@ El código principal se encuentra en el archivo  SimuladorLeyDeSnell.py.
 Requisitos Previos
 
 ## Sistema Operativo: Compatible con Windows, macOS o Linux.
-Python: Versión 3.6 o superior. Puedes descargar Python desde ![Python Org](https://www.python.org/)
+Python: Versión 3.6 o superior. Puedes descargar Python desde [Python Org](https://www.python.org/)
 
 ## Dependencias
 El simulador requiere las siguientes bibliotecas:
